@@ -1,6 +1,5 @@
 # BioHet
-
-- This programme takes a list of input biological PDBs (PDB1) and generates an AlphaFold heteromer FASTA file which consists of the BLAST identified homologue of your complex. 
+This programme takes a list of input biological PDBs (PDB1) and generates an AlphaFold heteromer FASTA file which consists of the BLAST identified homologue of your complex. 
 
 - Prerequisites:
 	- Programme is written in Python and run with Python 3.10.2
