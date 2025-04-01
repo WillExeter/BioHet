@@ -1,5 +1,5 @@
 # BioHet
-This programme takes a list of input biological PDBs (PDB1) and automates AlphaFold prediction for the orthologue of your complex. 
+This programme takes a list of input biological PDBs (PDB1) and automates AlphaFold prediction for the orthologue in an organism of interest. 
 ![all_multimers_tile](https://github.com/user-attachments/assets/947d6abd-df04-40d0-932b-c176a0691333)
 
 
